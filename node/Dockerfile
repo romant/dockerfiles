@@ -1,4 +1,4 @@
-FROM photon
+FROM photon:1.0RC
 
 MAINTAINER Roman Tarnavski
 
